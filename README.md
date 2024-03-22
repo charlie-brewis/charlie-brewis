@@ -11,9 +11,9 @@ ___
 - ⚡ Fun fact: I know I'm going to forget to update the 'currently working on' section! 😂
 ___
 **Connect With Me:    🤝**  
-![Linkedin Icon](./social-media-icons/linkedin.png)  
-![Twitter Icon](./social-media-icons/twitter.png)  
-![Whatsapp Icon](./social-media-icons/whatsapp.png)  
+![Linkedin Icon](./social-media-icons/linkedin.png)
+![Twitter Icon](./social-media-icons/twitter.png)
+![Whatsapp Icon](./social-media-icons/whatsapp.png)
 ![Instagram Icon](./social-media-icons/instagram.png)  
   **Languages and Tools:    💻**
   [INSERT LANGUAGES AND TOOLS ICONS]
