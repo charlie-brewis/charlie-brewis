@@ -29,3 +29,7 @@ ___
 ![Flutter Icon](./languages-and-tools-icons/flutter.png)
 ![c Icon](./languages-and-tools-icons/c.png)
 ![unity Icon](./languages-and-tools-icons/unity.png)
+___
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
