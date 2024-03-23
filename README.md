@@ -12,7 +12,8 @@ ___
 ___
 **Connect With Me:    🤝**  
 ![Linkedin Icon](./social-media-icons/linkedin.png)
-![Twitter Icon](./social-media-icons/twitter.png)
+![Discord Icon](./social-media-icons/discord.png)
+![Gmail Icon](./social-media-icons/gmail.png)
 ![Whatsapp Icon](./social-media-icons/whatsapp.png)
 ![Instagram Icon](./social-media-icons/instagram.png)  
   **Languages and Tools:    💻**  
