@@ -13,7 +13,7 @@ ___
 **Connect With Me:    🤝**  
 [![Linkedin Icon](./social-media-icons/linkedin.png)](https://www.linkedin.com/in/charlie-brewis-067b5a29a/)
 [![Discord Icon](./social-media-icons/discord.png)](https://discordapp.com/users/234345646319075328)
-[![Gmail Icon](./social-media-icons/gmail.png)](charliebrewis12@gmail.com)
+[![Gmail Icon](./social-media-icons/gmail.png)](mailto:charliebrewis12@gmail.com)
 [![Whatsapp Icon](./social-media-icons/whatsapp.png)](https://wa.me/077388930480)
 [![Instagram Icon](./social-media-icons/instagram.png)](https://www.instagram.com/_charlie_brewis?igsh=MTI2dGR2OHV2cXp1cQ%3D%3D&utm_source=qr)  
   **Languages and Tools:    💻**  
