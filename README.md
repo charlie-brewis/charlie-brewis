@@ -11,7 +11,7 @@ ___
 - ⚡ Fun fact: I know I'm going to forget to update the 'currently working on' section! 😂
 ___
 **Connect With Me:    🤝**  
-![Linkedin Icon](./social-media-icons/linkedin.png)
+[![Linkedin Icon](./social-media-icons/linkedin.png)](https://www.linkedin.com/in/charlie-brewis-067b5a29a/)
 ![Discord Icon](./social-media-icons/discord.png)
 ![Gmail Icon](./social-media-icons/gmail.png)
 ![Whatsapp Icon](./social-media-icons/whatsapp.png)
