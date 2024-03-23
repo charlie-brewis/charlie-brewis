@@ -2,7 +2,7 @@
 
 ### I am a programmer with a background in python. Now working with flutter and trying to learn systems dev!
 ___
-- 🔭 I’m currently working on my portfolio
+- 🔭 I’m currently working on my portfolio and [Worldskills UK Web Development Competition](https://www.worldskillsuk.org/competitions/web-development/)
 - 🌱 I’m currently learning flutter and C
 - 👯 I’m looking to collaborate on any and all projects that will give me meaningful experience!
 - 🤔 I’m looking for help with an introduction to systems programming.
