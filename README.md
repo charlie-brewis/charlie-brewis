@@ -32,6 +32,8 @@ ___
 ![unity Icon](./languages-and-tools-icons/unity.png)
 ___
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -73,7 +75,10 @@ Sunday                   21 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     45 mins             ██████████████░░░░░░░░░░░   54.59 % 
+HTML                     17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+Other                    14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+CSS                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,6 +97,6 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlie-brewis/charlie-brewis/main/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2024 18:31:16 UTC
+ Last Updated on 24/03/2024 18:32:05 UTC
 <!--END_SECTION:waka-->
 
