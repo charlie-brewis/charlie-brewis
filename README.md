@@ -32,13 +32,13 @@ ___
 ![unity Icon](./languages-and-tools-icons/unity.png)
 ___
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 8.3 kB Used in GitHub's Storage 
+> 📦 8.6 kB Used in GitHub's Storage 
  > 
 > 🏆 314 Contributions in the Year 2024
  > 
@@ -75,11 +75,11 @@ Sunday                   21 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-SQL                      1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   26.77 % 
-Dart                     1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
-CSS                      1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-HTML                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-JavaScript               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+SQL                      2 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   35.65 % 
+Dart                     2 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.28 % 
+CSS                      1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+HTML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,6 +99,6 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlie-brewis/charlie-brewis/main/assets/bar_graph.png)
 
 
- Last Updated on 26/03/2024 18:31:37 UTC
+ Last Updated on 27/03/2024 18:31:19 UTC
 <!--END_SECTION:waka-->
 
