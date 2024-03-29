@@ -97,6 +97,6 @@ TypeScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/charlie-brewis/charlie-brewis/main/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2024 18:31:27 UTC
+ Last Updated on 29/03/2024 18:31:16 UTC
 <!--END_SECTION:waka-->
 
