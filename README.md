@@ -21,15 +21,12 @@ ___
 ![Open CV Icon](./languages-and-tools-icons/opencv.png)
 ![Numpy Icon](./languages-and-tools-icons/numpy.png)
 ![Matplotlib Icon](./languages-and-tools-icons/matplotlib.png)
-![Typescript Icon](./languages-and-tools-icons/typescript.png)
 ![js Icon](./languages-and-tools-icons/js.png)
 ![html Icon](./languages-and-tools-icons/html.png)
 ![css Icon](./languages-and-tools-icons/css.png)
-![React Icon](./languages-and-tools-icons/react.png)
 ![Dart Icon](./languages-and-tools-icons/dart.png)
 ![Flutter Icon](./languages-and-tools-icons/flutter.png)
 ![c Icon](./languages-and-tools-icons/c.png)
-![unity Icon](./languages-and-tools-icons/unity.png)
 ___
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2033%20mins-blue)
