@@ -1,6 +1,6 @@
 ![Header Image](./github-header-image.png)
 
-### I am a programmer with a background in python. Now working with flutter and trying to learn systems dev!
+### I am a programmer with a background in python. Now working with flutter for uni and trying to learn systems programming!
 ___
 - 🔭 I’m currently working on my portfolio and [Worldskills UK Web Development Competition](https://www.worldskillsuk.org/competitions/web-development/)
 - 🌱 I’m currently learning flutter and C
