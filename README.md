@@ -3,12 +3,9 @@
 ### I am a programmer with a background in python. Now working with flutter for uni and trying to learn systems programming!
 ___
 - 🔭 I’m currently working on my portfolio and [Worldskills UK Web Development Competition](https://www.worldskillsuk.org/competitions/web-development/)
-- 🌱 I’m currently learning flutter and C
+- 🌱 I’m currently learning flutter, ASM x86, and C
 - 👯 I’m looking to collaborate on any and all projects that will give me meaningful experience!
-- 🤔 I’m looking for help with an introduction to systems programming.
-- 💬 Ask me about my semantic segmentation model automatic map generation project.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I know I'm going to forget to update the 'currently working on' section! 😂
 ___
 **Connect With Me:    🤝**  
 [![Linkedin Icon](./social-media-icons/linkedin.png)](https://www.linkedin.com/in/charlie-brewis-067b5a29a/)
