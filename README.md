@@ -26,11 +26,13 @@ ___
 ![c Icon](./languages-and-tools-icons/c.png)
 ___
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2039%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 9.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 460 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -42,8 +44,8 @@ ___
 
 ```text
 💬 Programming Languages: 
-Dart                     5 hrs 27 mins       █████████████████████████   99.46 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Dart                     3 hrs 12 mins       █████████████████████████   99.10 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 
 **I Mostly Code in Python** 
@@ -59,6 +61,6 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/05/2024 18:32:54 UTC
+ Last Updated on 03/05/2024 18:33:07 UTC
 <!--END_SECTION:waka-->
 
