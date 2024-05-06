@@ -26,7 +26,7 @@ ___
 ![c Icon](./languages-and-tools-icons/c.png)
 ___
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2028%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -64,6 +64,6 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2024 18:30:40 UTC
+ Last Updated on 06/05/2024 18:33:31 UTC
 <!--END_SECTION:waka-->
 
