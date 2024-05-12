@@ -32,6 +32,8 @@ ___
 
 > 📦 9.1 kB Used in GitHub's Storage 
  > 
+> 🏆 466 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -42,8 +44,7 @@ ___
 
 ```text
 💬 Programming Languages: 
-Dart                     43 mins             █████████████████████████   99.39 % 
-Assembly                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Dart                     28 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -59,6 +60,6 @@ ShaderLab                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2024 18:31:05 UTC
+ Last Updated on 12/05/2024 18:32:53 UTC
 <!--END_SECTION:waka-->
 
