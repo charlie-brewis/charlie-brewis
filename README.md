@@ -32,7 +32,7 @@ ___
 
 > 📦 173.6 kB Used in GitHub's Storage 
  > 
-> 🏆 622 Contributions in the Year 2024
+> 🏆 625 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -44,8 +44,8 @@ ___
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 hrs 54 mins       █████████████████████░░░░   84.26 % 
-Python                   43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+JavaScript               2 hrs 10 mins       ██████████████████████░░░   87.30 % 
+Python                   19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
 ```
 
 **I Mostly Code in Python** 
@@ -61,6 +61,6 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2024 18:38:16 UTC
+ Last Updated on 13/07/2024 18:33:33 UTC
 <!--END_SECTION:waka-->
 
