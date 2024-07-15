@@ -26,13 +26,13 @@ ___
 ![c Icon](./languages-and-tools-icons/c.png)
 ___
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2017%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 173.6 kB Used in GitHub's Storage 
+> 📦 173.8 kB Used in GitHub's Storage 
  > 
-> 🏆 625 Contributions in the Year 2024
+> 🏆 630 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -51,16 +51,16 @@ Python                   4 mins              █░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            ███████████████░░░░░░░░░░   59.09 % 
+Python                   12 repos            ██████████████░░░░░░░░░░░   54.55 % 
 HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 Dart                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Assembly                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
 
 
- Last Updated on 14/07/2024 18:46:03 UTC
+ Last Updated on 15/07/2024 18:37:12 UTC
 <!--END_SECTION:waka-->
 
