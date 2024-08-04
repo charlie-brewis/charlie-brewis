@@ -26,11 +26,13 @@ ___
 ![c Icon](./languages-and-tools-icons/c.png)
 ___
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2046%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 173.9 kB Used in GitHub's Storage 
+> 📦 174.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 653 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -42,9 +44,9 @@ ___
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 13 mins        █████████████░░░░░░░░░░░░   51.85 % 
-C                        1 hr 3 mins         ███████████░░░░░░░░░░░░░░   44.98 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+C++                      1 hr 16 mins        █████████████░░░░░░░░░░░░   52.33 % 
+C                        1 hr 5 mins         ███████████░░░░░░░░░░░░░░   44.62 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 ```
 
 **I Mostly Code in Python** 
@@ -60,6 +62,6 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2024 18:35:26 UTC
+ Last Updated on 04/08/2024 18:34:37 UTC
 <!--END_SECTION:waka-->
 
