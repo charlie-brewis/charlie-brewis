@@ -26,7 +26,7 @@ ___
 ![c Icon](./languages-and-tools-icons/c.png)
 ___
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2018%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -59,6 +59,6 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2024 18:37:25 UTC
+ Last Updated on 24/08/2024 18:35:40 UTC
 <!--END_SECTION:waka-->
 
