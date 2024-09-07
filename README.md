@@ -26,7 +26,7 @@ ___
 ![c Icon](./languages-and-tools-icons/c.png)
 ___
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2035%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -42,8 +42,7 @@ ___
 
 ```text
 💬 Programming Languages: 
-Haskell                  4 hrs 20 mins       ████████████████████████░   95.70 % 
-Dart                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Haskell                  4 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -59,6 +58,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2024 18:39:15 UTC
+ Last Updated on 07/09/2024 18:37:11 UTC
 <!--END_SECTION:waka-->
 
