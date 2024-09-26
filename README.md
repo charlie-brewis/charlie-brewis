@@ -42,8 +42,7 @@ ___
 
 ```text
 💬 Programming Languages: 
-C                        57 mins             █████████████████████████   98.34 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -59,6 +58,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2024 18:40:40 UTC
+ Last Updated on 26/09/2024 18:39:45 UTC
 <!--END_SECTION:waka-->
 
