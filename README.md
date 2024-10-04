@@ -32,8 +32,6 @@ ___
 
 > 📦 174.5 kB Used in GitHub's Storage 
  > 
-> 🏆 700 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -44,7 +42,9 @@ ___
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 10 mins             ██████████░░░░░░░░░░░░░░░   38.21 % 
+Dart                     9 mins              █████████░░░░░░░░░░░░░░░░   35.41 % 
+Assembly                 7 mins              ███████░░░░░░░░░░░░░░░░░░   26.38 % 
 ```
 
 **I Mostly Code in Python** 
@@ -60,6 +60,6 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2024 18:41:02 UTC
+ Last Updated on 04/10/2024 18:40:38 UTC
 <!--END_SECTION:waka-->
 
