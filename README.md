@@ -26,13 +26,11 @@ ___
 ![c Icon](./languages-and-tools-icons/c.png)
 ___
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-127%20hrs%2010%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 174.6 kB Used in GitHub's Storage 
- > 
-> 🏆 721 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -64,6 +62,6 @@ Haskell                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2024 18:38:37 UTC
+ Last Updated on 13/10/2024 18:38:39 UTC
 <!--END_SECTION:waka-->
 
