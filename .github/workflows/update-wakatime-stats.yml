@@ -1,3 +1,4 @@
+# https://github.com/anmol098/waka-readme-stats
 name: Waka Readme
 
 on:
@@ -22,3 +23,4 @@ jobs:
           SHOW_COMMIT: "False"
           SHOW_TIMEZONE: "False"
           SHOW_LOC_CHART: "False"
+          SHOW_SHORT_INFO: "False"
