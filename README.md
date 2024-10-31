@@ -26,14 +26,13 @@ ___
 ![c Icon](./languages-and-tools-icons/c.png)
 ___
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2013%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C                        2 hrs 23 mins       █████████████████████████   99.83 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+C                        3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -49,6 +48,6 @@ Haskell                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2024 18:41:30 UTC
+ Last Updated on 31/10/2024 18:41:21 UTC
 <!--END_SECTION:waka-->
 
