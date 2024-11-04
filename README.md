@@ -26,6 +26,8 @@ ___
 ![c Icon](./languages-and-tools-icons/c.png)
 ___
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%205%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -50,6 +52,6 @@ Haskell                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2024 18:39:08 UTC
+ Last Updated on 04/11/2024 18:39:55 UTC
 <!--END_SECTION:waka-->
 
