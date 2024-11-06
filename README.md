@@ -2,7 +2,7 @@
 
 ### I am a programmer with a background in python. Now working with flutter for uni and trying to learn systems programming!
 ___
-- 🔭 I’m currently working on my portfolio and [Worldskills UK Web Development Competition](https://www.worldskillsuk.org/competitions/web-development/)
+- 🔭 I’m currently working on my finding a placement year 
 - 🌱 I’m currently learning flutter, ASM x86, and C
 - 👯 I’m looking to collaborate on any and all projects that will give me meaningful experience!
 - 😄 Pronouns: He/Him
@@ -14,16 +14,13 @@ ___
 [![Whatsapp Icon](./social-media-icons/whatsapp.png)](https://wa.me/077388930480)
 [![Instagram Icon](./social-media-icons/instagram.png)](https://www.instagram.com/_charlie_brewis?igsh=MTI2dGR2OHV2cXp1cQ%3D%3D&utm_source=qr)  
   **Languages and Tools:    💻**  
+![c Icon](./languages-and-tools-icons/c.png)
+![Flutter Icon](./languages-and-tools-icons/flutter.png)
+![js Icon](./languages-and-tools-icons/js.png)
 ![Python Icon](./languages-and-tools-icons/python.png)
-![Open CV Icon](./languages-and-tools-icons/opencv.png)
 ![Numpy Icon](./languages-and-tools-icons/numpy.png)
 ![Matplotlib Icon](./languages-and-tools-icons/matplotlib.png)
-![js Icon](./languages-and-tools-icons/js.png)
-![html Icon](./languages-and-tools-icons/html.png)
-![css Icon](./languages-and-tools-icons/css.png)
-![Dart Icon](./languages-and-tools-icons/dart.png)
-![Flutter Icon](./languages-and-tools-icons/flutter.png)
-![c Icon](./languages-and-tools-icons/c.png)
+![Open CV Icon](./languages-and-tools-icons/opencv.png)
 ___
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%205%20mins-blue)
@@ -38,18 +35,6 @@ YAML                     1 min               ░░░░░░░░░░░�
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   13 repos            ████████████░░░░░░░░░░░░░   46.43 % 
-C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Dart                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Haskell                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-```
-
-
 
 
  Last Updated on 05/11/2024 18:40:06 UTC
