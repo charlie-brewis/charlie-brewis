@@ -23,7 +23,7 @@ ___
 ![Open CV Icon](./languages-and-tools-icons/opencv.png)
 ___
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2054%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -49,6 +49,6 @@ Haskell                  1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2024 18:39:06 UTC
+ Last Updated on 01/01/2025 18:39:08 UTC
 <!--END_SECTION:waka-->
 
