@@ -29,7 +29,8 @@ ___
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Haskell                  58 mins             █████████████████████████   98.73 % 
+Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 
 **I Mostly Code in Python** 
@@ -45,6 +46,6 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/03/2025 18:39:50 UTC
+ Last Updated on 24/03/2025 18:43:36 UTC
 <!--END_SECTION:waka-->
 
