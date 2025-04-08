@@ -23,15 +23,15 @@ ___
 ![Open CV Icon](./languages-and-tools-icons/opencv.png)
 ___
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%208%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Dart                     16 mins             █████████████████░░░░░░░░   67.81 % 
-Haskell                  7 mins              ████████░░░░░░░░░░░░░░░░░   32.14 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Dart                     28 mins             ████████████████████░░░░░   79.15 % 
+Haskell                  7 mins              █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 **I Mostly Code in Python** 
@@ -47,6 +47,6 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/04/2025 18:41:51 UTC
+ Last Updated on 08/04/2025 18:43:57 UTC
 <!--END_SECTION:waka-->
 
