@@ -29,7 +29,7 @@ ___
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     1 hr 57 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -45,6 +45,6 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/04/2025 18:44:20 UTC
+ Last Updated on 29/04/2025 18:43:16 UTC
 <!--END_SECTION:waka-->
 
