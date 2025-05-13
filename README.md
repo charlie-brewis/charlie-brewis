@@ -23,7 +23,7 @@ ___
 ![Open CV Icon](./languages-and-tools-icons/opencv.png)
 ___
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%209%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -49,6 +49,6 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2025 18:45:27 UTC
+ Last Updated on 13/05/2025 18:44:33 UTC
 <!--END_SECTION:waka-->
 
