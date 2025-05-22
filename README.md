@@ -23,11 +23,13 @@ ___
 ![Open CV Icon](./languages-and-tools-icons/opencv.png)
 ___
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2014%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Dart                     13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -43,6 +45,6 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2025 18:45:28 UTC
+ Last Updated on 22/05/2025 18:45:24 UTC
 <!--END_SECTION:waka-->
 
