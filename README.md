@@ -29,7 +29,7 @@ ___
 
 ```text
 💬 Programming Languages: 
-Python                   6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -45,6 +45,6 @@ Haskell                  2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2025 18:44:10 UTC
+ Last Updated on 30/11/2025 18:43:59 UTC
 <!--END_SECTION:waka-->
 
