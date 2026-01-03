@@ -23,13 +23,6 @@ ___
 ![Open CV Icon](./languages-and-tools-icons/opencv.png)
 ___
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -43,6 +36,6 @@ Haskell                  2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 18:48:21 UTC
+ Last Updated on 03/01/2026 18:47:01 UTC
 <!--END_SECTION:waka-->
 
