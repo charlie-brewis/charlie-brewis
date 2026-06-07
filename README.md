@@ -23,8 +23,6 @@ ___
 ![Open CV Icon](./languages-and-tools-icons/opencv.png)
 ___
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2058%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -35,16 +33,16 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            ███████████░░░░░░░░░░░░░░   42.42 % 
-Dart                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Haskell                  2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Python                   14 repos            ██████████░░░░░░░░░░░░░░░   41.18 % 
+C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Haskell                  2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
 
 
- Last Updated on 06/06/2026 19:49:59 UTC
+ Last Updated on 07/06/2026 19:51:14 UTC
 <!--END_SECTION:waka-->
 
