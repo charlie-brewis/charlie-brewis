@@ -23,21 +23,6 @@ ___
 ![Open CV Icon](./languages-and-tools-icons/opencv.png)
 ___
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2016%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -51,6 +36,6 @@ Haskell                  2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:00:10 UTC
+ Last Updated on 07/08/2026 00:19:40 UTC
 <!--END_SECTION:waka-->
 
